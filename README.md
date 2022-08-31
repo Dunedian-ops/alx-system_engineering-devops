@@ -1,1 +1,0 @@
-Practising Shell Basicsics
